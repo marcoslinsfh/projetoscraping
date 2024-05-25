@@ -2,6 +2,6 @@
 
 Para rodar o WebScraping no ML
 
-''' bash 
+'''bash 
 scrapy crawl mercadolivre -o ../data/data.jsonl
 '''
